@@ -2,7 +2,7 @@ syntax = "proto3";
 
 option csharp_namespace = "WeatherVideoApp.Server";
 
-package greet;
+package iss_location;
 import "google/protobuf/timestamp.proto";
 
 
